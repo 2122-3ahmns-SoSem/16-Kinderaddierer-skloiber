@@ -15,7 +15,7 @@ Links:
 
 
 Development platform:
-Win 10, Unity Version: 2020.1.5f1, Visual Studio Version: VS Community 2022;
+Win 10, Unity Version: 2020.3.18f1, Visual Studio Version: VS Community 2022;
 
 Target platform:
 Web GL
