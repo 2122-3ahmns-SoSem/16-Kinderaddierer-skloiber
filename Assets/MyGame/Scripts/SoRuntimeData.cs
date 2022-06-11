@@ -1,15 +1,15 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "SORuntimeData")]
+[CreateAssetMenu(menuName = "SoRuntimeData")]
 public class SoRuntimeData : ScriptableObject
 {
-    public string nameKid;
+    public string nameKid = "";
+    public string showPic = "";
+    public string scoreResult = "";
+    public int scoreMessage;
 
     private void OnEnable()
     {
-       // nameKid = "";
+     
     }
-
 }
